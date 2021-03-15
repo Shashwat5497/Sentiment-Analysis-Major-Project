@@ -7,6 +7,4 @@ nltk
 contractions
 re2
 vaderSentiment
-ToktokTokenizer
-SentimentIntensityAnalyzer
 sklearn
