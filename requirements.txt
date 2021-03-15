@@ -5,7 +5,7 @@ numpy
 bs4
 nltk
 contractions
-re
+re2
 vaderSentiment
 ToktokTokenizer
 SentimentIntensityAnalyzer
