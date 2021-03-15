@@ -4,7 +4,6 @@ requests
 numpy
 bs4
 nltk
-BeautifulSoup
 contractions
 re
 vaderSentiment
