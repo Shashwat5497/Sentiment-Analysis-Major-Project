@@ -25,11 +25,11 @@ def con(text):
   return expand
 
 # removal of special character
-try:
-    import re2 as re
-except ImportError:
-    import re
-# import re
+# try:
+#     import re2 as re
+# except ImportError:
+#     import re
+import re2 as re
 def remove_sp(text):
   pattern=r'[^A-Za-z0-9\s]'
   text=re.sub(pattern,'',text)
