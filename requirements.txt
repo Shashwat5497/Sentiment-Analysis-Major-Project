@@ -1,0 +1,14 @@
+streamlit
+pandas
+requests
+numpy
+bs4
+os
+nltk
+BeautifulSoup
+contractions
+re
+vaderSentiment
+ToktokTokenizer
+SentimentIntensityAnalyzer
+sklearn
