@@ -47,8 +47,7 @@ def remove_stop_words(text):
   filtered_text=' '.join(filtered_tokens)
   return filtered_text
 
-
-st.title("Tweet's Sentiment Analysis")
+st.title("Sentiment Analysis")
 
 df = pd.read_csv('train.csv')
 
