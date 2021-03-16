@@ -5,6 +5,6 @@ numpy
 bs4
 nltk
 contractions
-re2
+re
 vaderSentiment
 sklearn
