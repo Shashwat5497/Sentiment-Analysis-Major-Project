@@ -3,7 +3,8 @@ import streamlit as st
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-import numpy as np
+import nump-y as np
+import re
 # import os
 
 import nltk
@@ -29,7 +30,7 @@ def con(text):
 #     import re2 as re
 # except ImportError:
 #     import re
-import re
+# import re
 def remove_sp(text):
   pattern=r'[^A-Za-z0-9\s]'
   text=re.sub(pattern,'',text)
