@@ -1,3 +1,8 @@
+WEB-APP LINK : https://sentiment-analysis2021.herokuapp.com/
+
+IPYNB FILE LINK : https://colab.research.google.com/drive/1qCvWZ83wEDHIivFCh9cKti7uUlUx-li0?usp=sharing
+
+
 # Sentiment-Analysis-Major-Project
 
 Sentiment analysis (or opinion mining) is a natural language processing technique used to determine whether data is positive, negative or neutral. Sentiment analysis is often performed on textual data to help businesses monitor brand and product sentiment in customer feedback, and understand customer needs.
