@@ -1,10 +1,7 @@
 streamlit
 pandas
-requests
-numpy
-bs4
+sklearn
+BeautifulSoup4
 nltk
 contractions
 vaderSentiment
-sklearn
-re
